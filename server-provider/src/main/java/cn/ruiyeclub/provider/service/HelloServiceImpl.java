@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 
 @DubboService
 public class HelloServiceImpl implements HelloService {
+
     @Override
     public String hello(String message) {
         return "hello," + message;

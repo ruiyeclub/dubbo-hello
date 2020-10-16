@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0</version>
 
-    <name>dubbo-boot</name>
+    <name>dubbo-hello</name>
     <description>Dubbo ZooKeeper</description>
 
     <modules>
