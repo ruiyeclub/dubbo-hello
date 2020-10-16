@@ -1,6 +1,6 @@
-package cc.mrbird.consumer.controller;
+package cn.ruiyeclub.consumer.controller;
 
-import cc.mrbird.common.api.HelloService;
+import cn.ruiyeclub.common.api.HelloService;
 import com.alibaba.dubbo.config.annotation.Reference;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

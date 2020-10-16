@@ -1,6 +1,6 @@
-package cc.mrbird.provider.service;
+package cn.ruiyeclub.provider.service;
 
-import cc.mrbird.common.api.HelloService;
+import cn.ruiyeclub.common.api.HelloService;
 import com.alibaba.dubbo.config.annotation.Service;
 import org.springframework.stereotype.Component;
 

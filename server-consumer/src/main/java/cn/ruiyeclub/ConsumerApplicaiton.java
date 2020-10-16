@@ -1,4 +1,4 @@
-package cc.mrbird;
+package cn.ruiyeclub;
 
 import com.alibaba.dubbo.config.spring.context.annotation.EnableDubbo;
 import org.springframework.boot.SpringApplication;
@@ -6,9 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @EnableDubbo
 @SpringBootApplication
-public class ProviderApplicaiton {
+public class ConsumerApplicaiton {
     public static void main(String[] args) {
-        SpringApplication.run(ProviderApplicaiton.class, args);
-        System.out.println("complete");
+        SpringApplication.run(ConsumerApplicaiton.class, args);
     }
 }
