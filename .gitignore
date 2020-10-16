@@ -1,0 +1,4 @@
+# Project exclude paths
+/common-api/target/
+/server-consumer/target/
+/server-provider/target/
